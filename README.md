@@ -1,2 +1,2 @@
 # SimpleEQ
-An Simple EQ vet written in C++
+An Simple EQ vst written in C++
